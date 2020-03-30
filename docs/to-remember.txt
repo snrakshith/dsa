@@ -1,0 +1,2 @@
+1. Asymptomatic analysis
+2. Bad code => Good code => Great code

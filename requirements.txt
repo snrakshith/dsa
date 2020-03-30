@@ -1,0 +1,9 @@
+Dependencies:
+    - inquirer
+DevDependencies:
+    - lerna.js
+    - netlify-cli
+
+
+    npm i inquirer
+    

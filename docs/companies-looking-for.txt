@@ -1,0 +1,11 @@
+1. Analytical skills
+    - How can you think through the problem and analyze it.
+
+2. Coding skills
+    - Do you code well, do you organise it well etc..
+
+3. Technical skills
+    - Specific Domain Knowledge ie., React etc..
+
+4. Communicational skills
+    - Do you code well, do you organise it well etc..
