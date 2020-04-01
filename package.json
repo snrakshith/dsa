@@ -1,0 +1,21 @@
+{
+    "name": "dsa",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/snrakshith/dsa.git",
+    "author": "Rakshith <snrakshith.97@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "parcel website/index.html",
+        "lint": "add eslint",
+        "test": "jest",
+        "test:watch": "jest -watch",
+        "test:report": "jest -coverage",
+        "deploy": "netlfiy"
+    },
+    "devDependencies": {
+        "jest": "^25.2.4",
+        "netlify-cli": "^2.40.0",
+        "parcel": "^1.12.4"
+    }
+}

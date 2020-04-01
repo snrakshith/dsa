@@ -1,4 +1,8 @@
 node_modules/
 docs
-
+.circleci
+.github
+.vscode
+netlify.toml
+yarn.lock
 requirements.txt
