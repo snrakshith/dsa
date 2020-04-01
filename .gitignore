@@ -1,6 +1,4 @@
 node_modules/
-docs/
-.circleci
-.github
-.netlify.toml
+docs
+
 requirements.txt
